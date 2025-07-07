@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+Lib/
+Scripts/
+Include/
+etc/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.DS_Store
