@@ -75,5 +75,5 @@
 
 ## Author
 
-This application was developed using Streamlit and other open-source Python libraries.
-Mani Joshi
+This application was developed using Streamlit and other open-source Python libraries. 
+* Mani Joshi
